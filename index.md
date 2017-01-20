@@ -7,7 +7,7 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](https://
 
 ### Deep Learning classes at ONERA
 
-Link to the formation page [here](pages/formationDL.md)
+Link to the continuing education page [here](pages/formationDL.md)
 
 ### Site layout
 
