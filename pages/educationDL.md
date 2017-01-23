@@ -2,13 +2,15 @@
 
 Slides for Deep Learning classes :
 
-* **Introduction to machine learning** by *Bertrand Le Saux* and *Stéphane Herbin*
+* **Principles of Machine Learning** by *Bertrand Le Saux*
 
 [Slides](education/DL2017_01_BLS.pdf) in French
 
+* **Classification and Support-Vector Machines** by *Stéphane Herbin*
+
 [Slides](education/DL2017_02_SH.pdf) in French
 
-* **Neural networks** by *Adrien Chan-Hon-Tong*
+* **Neural Networks** by *Adrien Chan-Hon-Tong*
 
 [Slides](education/DL2017_03_ACHT.pdf) in French
 
