@@ -5,10 +5,10 @@ The team regroups researchers from different fields from image processing and ma
 
 ### [DTIM - Modeling and Information Processing](http://www.onera.fr/en/dtim)
 
-|![alt text](team/A_Boulch.jpg "Alexandre Boulch")| Dr. [Alexandre Boulch](https://sites.google.com/view/boulch) received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.|
-|![alt text](team/A_ChanHonTong.jpg "Adrien Chan-Hon-Tong")| Dr. [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
-|![alt text](team/S_Herbin.png "Stéphane Herbin")| Dr. [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)|
-|![alt text](team/B_LeSaux.jpg "Bertrand Le Saux")| Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)|
+|<img src="team/A_Boulch.jpg" height="200" width="150"/>| Dr. [Alexandre Boulch](https://sites.google.com/view/boulch) received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.|
+|<img src="team/A_ChanHonTong.jpg" height="200" width="150"/>)| Dr. [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
+|<img src="team/S_Herbin.png" height="200" width="150"/>)| Dr. [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)|
+|<img src="team/B_LeSaux.jpg" height="200" width="150"/>)| Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)|
 
 ### [DEMR - Electromagnetism and Radar](http://www.onera.fr/en/demr)
 
