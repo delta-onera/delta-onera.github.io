@@ -5,10 +5,12 @@ layout: default
 
 DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://www.onera.fr/en). Among its objectives are the development and the promotion of innovative machine learning based approaches for aerospace applications.
 
-### Deep Learning classes at ONERA
+### Tutorials and education
 
 Link to the continuing education page [here](pages/formationDL.md)
 
-### Site layout
+### The team
 
-This site is based on the Jekyll layout Cayman by [Pietro F. Menna](https://github.com/pietromenna/jekyll-cayman-theme)
+DeLTA's main objective is to export and broadcast machine learning techniques to various aerospace applicative fields.
+The teem regroups researchers from different fields from image processing and machine learning to mechanics.
+Check out the list [here](pages/team.md).
