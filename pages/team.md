@@ -6,8 +6,8 @@ The team regroups researchers from different fields from image processing and ma
 ### DTIM - Modeling and Information Processing
 
 |![alt text](images/team/A_Boulch.jpg "Alexandre Boulch")| [Alexandre Boulch](https://sites.google.com/view/boulch)|
-|![alt text](images/team/no_photo.jpg "Adrien Chan-Hon-Tong")| [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
-|![alt text](images/team/no_photo.jpg "Stéphane Herbin")| [Stéphane Herbin](https://www.researchgate.net/profile/Stephane_Herbin)|
+|![alt text](images/team/A_ChanHonTong.jpg "Adrien Chan-Hon-Tong")| [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
+|![alt text](images/team/S_Herbin.png "Stéphane Herbin")| [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)|
 |![alt text](images/team/B_LeSaux.jpg "Bertrand Le Saux")| [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)|
 
 ### DEMR - Electromagnetism and Radar
