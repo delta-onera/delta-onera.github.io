@@ -5,6 +5,7 @@ Slides for Deep Learning classes :
 * **Introduction to machine learning** by *Bertrand Le Saux* and *Stéphane Herbin*
 
 [Slides](education/DL2017_01_BLS.pdf) in French
+
 [Slides](education/DL2017_02_SH.pdf) in French
 
 * **Neural networks** by *Adrien Chan-Hon-Tong*
