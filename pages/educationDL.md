@@ -16,4 +16,4 @@ Slides for Deep Learning classes :
 
 * **Deep Learning** by *Alexandre Boulch*
 
-[Slides](education/DL2017_03_AB.pdf) in French
+[Slides](education/DL2017_04_AB.pdf) in French
