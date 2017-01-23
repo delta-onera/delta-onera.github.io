@@ -4,7 +4,7 @@ DeLTA's main objective is to export and broadcast machine learning techniques to
 The team regroups researchers from different fields from image processing and machine learning to mechanics.
 
 ### [DTIM - Modeling and Information Processing](http://www.onera.fr/en/dtim)
-
+<div class="site-footer-credits">
 <table>
   <tr>
     <th style="width: 200px;"><img src="team/A_Boulch.jpg" height="200" width="150"/></th>
@@ -23,6 +23,7 @@ The team regroups researchers from different fields from image processing and ma
   <td>Dr. <a href="http://www.onera.fr/en/staff/bertrand-le-saux"> Bertrand Le Saux</a></td>
   </tr>
 </table>
+<div class="site-footer-credits">
 
 ### [DEMR - Electromagnetism and Radar](http://www.onera.fr/en/demr)
 
