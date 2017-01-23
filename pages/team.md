@@ -5,6 +5,8 @@ The teem regroups researchers from different fields from image processing and ma
 
 #### DTIM - Modeling and Information Processing
 
+Todo
+
 |---|---|
 |![alt text](images/team/A_Boulch.jpg "Alexandre Boulch")| [Alexandre Boulch](https://sites.google.com/view/boulch)|
 |![alt text](images/team/no_photo.jpg "Adrien Chan-Hon-Tong")| [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
