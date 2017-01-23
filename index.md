@@ -7,7 +7,7 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
 
 ### Tutorials and education
 
-Link to the continuing education page [here](pages/formationDL.md)
+Link to the continuing education page [here](pages/educationDL.md)
 
 ### The team
 

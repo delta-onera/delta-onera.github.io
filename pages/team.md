@@ -5,10 +5,10 @@ The team regroups researchers from different fields from image processing and ma
 
 ### DTIM - Modeling and Information Processing
 
-|![alt text](images/team/A_Boulch.jpg "Alexandre Boulch")| [Alexandre Boulch](https://sites.google.com/view/boulch)|
-|![alt text](images/team/A_ChanHonTong.jpg "Adrien Chan-Hon-Tong")| [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
-|![alt text](images/team/S_Herbin.png "Stéphane Herbin")| [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)|
-|![alt text](images/team/B_LeSaux.jpg "Bertrand Le Saux")| [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)|
+|![alt text](team/A_Boulch.jpg "Alexandre Boulch")| Dr. [Alexandre Boulch](https://sites.google.com/view/boulch) received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.|
+|![alt text](team/A_ChanHonTong.jpg "Adrien Chan-Hon-Tong")| Dr. [Adrien Chan-Hon-Tong](https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong)|
+|![alt text](team/S_Herbin.png "Stéphane Herbin")| Dr. [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)|
+|![alt text](team/B_LeSaux.jpg "Bertrand Le Saux")| Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)|
 
 ### DEMR - Electromagnetism and Radar
 
