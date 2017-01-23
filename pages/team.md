@@ -4,11 +4,16 @@ DeLTA's main objective is to export and broadcast machine learning techniques to
 The team regroups researchers from different fields from image processing and machine learning to mechanics.
 
 ### [DTIM - Modeling and Information Processing](http://www.onera.fr/en/dtim)
-<div class="site-footer-credits">
+
+<div class="site-footer-credits;font-weight: normal;">
 <table>
   <tr>
-    <th style="width: 200px;"><img src="team/A_Boulch.jpg" height="200" width="150"/></th>
-    <th> Dr. <a href="https://sites.google.com/view/boulch"> Alexandre Boulch </a> received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.</th> 
+    <th style="width: 200px;">
+      <img src="team/A_Boulch.jpg" height="200" width="150"/>
+    </th>
+    <th> 
+      Dr. <a href="https://sites.google.com/view/boulch"> Alexandre Boulch </a> received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.
+    </th> 
   </tr>
   <tr>
     <td style="width: 200px;"><img src="team/A_ChanHonTong.jpg" height="200" width="150"/></td>
