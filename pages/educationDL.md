@@ -2,7 +2,7 @@
 
 On 2017/01/24, A day of professionnal continuing education was organized at Onera Palaiseau center. 
 
- [<img src="education/DLDay_20170124_program.jpg" alt="Deep Learning Day 2017/01/24 progra" width="80">](education/DLDay_20170124_program.pdf)
+ [<img src="education/DLDay_20170124_program.jpg" alt="Deep Learning Day 2017/01/24 progra" width="150">](education/DLDay_20170124_program.pdf)
 
 Slides for Deep Learning classes :
 
