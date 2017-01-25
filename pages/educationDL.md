@@ -1,4 +1,10 @@
-### Deep Lerning classes
+### Deep Learning classes
+
+On 2017/01/24, A day of professionnal continuing education was organized at Onera Palaiseau center. 
+
+![Program](education/DLDay_20170124_program.jpg "Deep Learning Day 2017/01/24 program")
+
+
 
 Slides for Deep Learning classes :
 
