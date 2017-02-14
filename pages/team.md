@@ -29,10 +29,27 @@ The team regroups researchers from different fields from image processing and ma
 
 ### [DEMR - Electromagnetism and Radar](http://www.onera.fr/en/demr)
 
+* Reynald Doktor
+* Patrick Millot
+* Gilles Vieillard
+* Christelle Morisseau
+
 ### [DOTA - Theoretical and Applied Optics](http://www.onera.fr/en/dota)
+
+* Véronique Achard
 
 ### [DAAP - Applied Aerodynamics](http://www.onera.fr/en/daap)
 
+* Jean-Luc Hantrais-Gervois
+
 ### [DAFE - Fundamental and Experimental Aerodynamics](http://www.onera.fr/en/dafe)
 
+* Benjamin Leclaire
+* Samir Beneddine
+* Olivier Marquet
+* Denis Sipp
+
 ### [DMSC - Composite Systems and Materials](http://www.onera.fr/en/dmsc)
+
+* François-Henri Leroy
+* Jean-Michel Roche
