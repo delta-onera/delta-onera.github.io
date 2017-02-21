@@ -7,10 +7,10 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
 
 ### Tutorials and education
 
-Link to the continuing education page [here](pages/educationDL.md)
+Link to the continuing education page [here](_pages/educationDL.md)
 
 ### The team
 
 DeLTA's main objective is to export and broadcast machine learning techniques to various aerospace applicative fields.
 The teem regroups researchers from different fields from image processing and machine learning to mechanics.
-Check out the list [here](pages/team.md).
+Check out the list [here](_pages/team.md).
