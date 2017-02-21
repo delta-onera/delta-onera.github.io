@@ -16,5 +16,5 @@ On this [page](_pages/code.md), you will find links to code and softwares develo
 ### The team
 
 DeLTA's main objective is to export and broadcast machine learning techniques to various aerospace applicative fields.
-The teem regroups researchers from different fields from image processing and machine learning to mechanics.
+The team regroups researchers from different fields from image processing and machine learning to mechanics.
 Check out the list [here](_pages/team.md).

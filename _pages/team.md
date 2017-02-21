@@ -10,15 +10,15 @@ The team regroups researchers from different fields from image processing and ma
   <tr>
     <td style="width: 200px;"><img src="team/A_Boulch.jpg" height="200" width="150"/></td>
     <td> Dr. <a href="https://sites.google.com/view/boulch"> Alexandre Boulch </a> received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.
-    </td> 
+    </td>
   </tr>
   <tr>
     <td style="width: 200px;"><img src="team/A_ChanHonTong.jpg" height="200" width="150"/></td>
-    <td>Dr. <a href="https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong"> Adrien Chan-Hon-Tong </a></td> 
+    <td>Dr. <a href="https://www.researchgate.net/profile/Adrien_Chan-Hon-Tong"> Adrien Chan-Hon-Tong received an M.Sc from the Ecole Polytechnique and a PhD from CEA/UPMC on daily activity semantic segmentation. His research field at the ONERA is computer vision and machine learning, and especially, small (10 to 60 px) object detection in aerial images.</a></td> 
   </tr>
   <tr>
     <td style="width: 200px;"><img src="team/S_Herbin.png" height="200" width="150"/></td>
-    <td>Dr. <a href="http://www.onera.fr/fr/staff/stephane-herbin"> Stéphane Herbin </a></td> 
+    <td>Dr. <a href="http://www.onera.fr/fr/staff/stephane-herbin"> Stéphane Herbin </a></td>
   </tr>
   <tr>
     <td style="width: 200px;"><img src="team/B_LeSaux.jpg" height="200" width="150"/></td>
