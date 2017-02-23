@@ -59,4 +59,3 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
   </tr>
 </table>
 </center>
-
