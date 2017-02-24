@@ -3,18 +3,24 @@
 DeLTA's main objective is to export and broadcast machine learning techniques to various aerospace applicative fields.
 The team regroups researchers from different fields from image processing and machine learning to mechanics.
 
-### [DTIM - Modeling and Information Processing](http://www.onera.fr/en/dtim)
+* [DTIM - Modeling and Information Processing](#dtim)
+* [DAAP - Applied Aerodynamics](#daap)
+* [DAFE - Fundamental and Experimental Aerodynamics](#dafe)
+* [DEMR - Electromagnetism and Radar](#demr)
+* [DMSC - Composite Systems and Materials](#dmsc)
+* [DOTA - Theoretical and Applied Optics](#dota)
 
-
+### [DTIM - Modeling and Information Processing](http://www.onera.fr/en/dtim))<a name="dtim"></a>
 
 ![alt text](team/A_Boulch.jpg "Alexandre Boulch")
 ![alt text](team/A_ChanHonTong.jpg "Adrien Chan-Hon-Tong")
 ![alt text](team/S_Herbin.png "Stephane Herbin")
 ![alt text](team/B_LeSaux.jpg "Bertrand Le Saux")
 ![alt text](team/A_Plyer.png "Aurélien Plyer")
+![alt text](team/P_TrouvePeloux.jpg "Pauline Trouvé-Peloux")
+![alt text](team/E_Koeniguer.png "Elise Koeniguer")
 ![alt text](team/G_LeBesnerais.png "Guy Le Besnerais")
 ![alt text](team/F_Champagnat.png "Frédéric Champagnat")
-![alt text](team/P_TrouvePeloux.jpg "Pauline Trouvé-Peloux")
 
 Dr. [Alexandre Boulch](https://sites.google.com/view/boulch)
 received an engineering degree from the Ecole Polytechnique, a M.Sc in Computer Vision and Machine Learning at ENS Cachan and a PhD from the Eastern Paris University (UPE) with a thesis focusing on geometric and semantic reconstruction for buildings. His research fields are computational geometry and machine learning for remote sensing data, including Lidar and satellite imagery.
@@ -28,37 +34,25 @@ Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)
 
 Dr. [Aurélien Plyer](https://www.researchgate.net/profile/Aurelien_Plyer) graduated from Université Pierre et Marie Curie (Paris 6) in 2008 and received his PhD degree in Image Processing from the Université de Paris  13, in 2013. He is now working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. His research deals with high efficiency parallel methods for low-level video processing and 3D environment perception, with application to robotics and experimental physics.
 
+Dr. [Pauline Trouvé-Peloux](https://www.researchgate.net/profile/Pauline_Trouve) graduated from the Institut d'Optique Graduate School in 2009 and obtained her PhD degree in signal and image processing from l'Ecole Centrale de Nantes in 2012.  Since 2012 she has been working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. Her research field at the ONERA concerns image processing (deblurring and denoising), optical design and performance modeling for imaging systems. In particular, she works on unconventional imaging system design using joint digital/optical performance model.  Her work is applied in  computational photography and computer vision, especially in the field of 3D applications.
+
+Dr. [Elise Koeniguer](https://www.researchgate.net/profile/Elise_Koeniguer) graduated from Supelec in 2002, received a M.Sc in nuclear physics and particle physics, and a PhD from University Paris 6 in 2005, with a thesis focusing on
+polarimetric and interferometric radar images. She obtained the degree of Habilitation à Diriger les Recherches (HDR) in 2014 and is affiliated to Paris-Saclay University.
+Her research fields include polarimetry and image processing for remote sensing images, with applications to forest and urban areas.
+
 Dr. [Guy Le Besnerais](https://scholar.google.fr/citations?user=r8V306wAAAAJ&hl=fr) graduated from ENSTA in 1989 and obtained his PhD degree from Université Paris Sud in 1993. Since 1994, he has been working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. He obtained the degree of Habilitation à Diriger les Recherches (HDR) in 2008 and is affiliated to Paris-Saclay University. Since October 2016, he is a Research Director at ONERA. His research activities include methods for solving inverse problems, performance modeling for imaging measurement systems, and embedded vision for robotics applications.
 
 Dr. [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champagnat) graduated from ENSTA in 1989 and obtained his PhD degree from Université Paris Sud in 1993. Since 1999 he has been working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. Since 2010, he has been a senior scientist and achieved the degree of Habilitation à Diriger les Recherches (HDR) in 2011. He is affiliated to Paris-Saclay University and is a member of the board of the first Comité de Pôle of the STIC doctorate school. His research activities include stochastic modeling of signals and images, methods for solving inverse problems, image deblurring and super-resolution and performance modeling for imaging measurement systems. His work is applied in video processing, satellite and airborne imaging, metrology by imaging in fluid mechanics, and the co-design of hybrid sensor+processing systems.
 
-Dr. [Pauline Trouvé-Peloux](https://www.researchgate.net/profile/Pauline_Trouve) graduated from the Institut d'Optique Graduate School in 2009 and obtained her PhD degree in signal and image processing from l'Ecole Centrale de Nantes in 2012.  Since 2012 she has been working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. Her research field at the ONERA concerns image processing (deblurring and denoising), optical design and performance modeling for imaging systems. In particular, she works on unconventional imaging system design using joint digital/optical performance model.  Her work is applied in  computational photography and computer vision, especially in the field of 3D applications.
 
 
 ---
-
-### [DEMR - Electromagnetism and Radar](http://www.onera.fr/en/demr)
-
-* Reynald Doktor
-* Patrick Millot
-* Gilles Vieillard
-* Christelle Morisseau
-
----
-
-### [DOTA - Theoretical and Applied Optics](http://www.onera.fr/en/dota)
-
-* Véronique Achard
-
----
-
-### [DAAP - Applied Aerodynamics](http://www.onera.fr/en/daap)
+### [DAAP - Applied Aerodynamics](http://www.onera.fr/en/daap)<a name="daap"></a>
 
 * Jean-Luc Hantrais-Gervois
 
 ---
-
-### [DAFE - Fundamental and Experimental Aerodynamics](http://www.onera.fr/en/dafe)
+### [DAFE - Fundamental and Experimental Aerodynamics](http://www.onera.fr/en/dafe)<a name="dafe"></a>
 
 * Benjamin Leclaire
 * Samir Beneddine
@@ -66,8 +60,20 @@ Dr. [Pauline Trouvé-Peloux](https://www.researchgate.net/profile/Pauline_Trouve
 * Denis Sipp
 
 ---
+### [DEMR - Electromagnetism and Radar](http://www.onera.fr/en/demr)<a name="demr"></a>
 
-### [DMSC - Composite Systems and Materials](http://www.onera.fr/en/dmsc)
+* Reynald Doktor
+* Patrick Millot
+* Gilles Vieillard
+* Christelle Morisseau
+
+---
+### [DMSC - Composite Systems and Materials](http://www.onera.fr/en/dmsc)<a name="dmsc"></a>
 
 * François-Henri Leroy
 * Jean-Michel Roche
+
+---
+### [DOTA - Theoretical and Applied Optics](http://www.onera.fr/en/dota)<a name="dota"></a>
+
+* Véronique Achard
