@@ -30,7 +30,7 @@ received an M.Sc from the Ecole Polytechnique and a PhD from CEA/UPMC on daily a
 
 Dr. [Stéphane Herbin](http://www.onera.fr/fr/staff/stephane-herbin)
 
-Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)
+Dr. [Bertrand Le Saux](http://www.onera.fr/en/staff/bertrand-le-saux)  (M.Eng 1999, M.Sc 1999 both at INP Grenoble, PhD 2003 Inria Rocquencourt) is a research scientist at ONERA, the French Aerospace Laboratory, in the Information Processing and Systems Department. His current research interests focus on developing machine learning methods for remote sensing, (flying) robotics and computer vision. He teaches Image Processing and Vision in Modal projects at École Polytechnique and machine learning and pattern recognition at Institut d'Optique Graduate School. Since July 2015, he has been serving as co-chair of the Image Analysis and Data Fusion Technical Committee of the IEEE GRSS. He has been a visiting researcher at CNR Pisa (2004), University of Bern (2005) and ENS Cachan (2006-2007).
 
 Dr. [Aurélien Plyer](https://www.researchgate.net/profile/Aurelien_Plyer) graduated from Université Pierre et Marie Curie (Paris 6) in 2008 and received his PhD degree in Image Processing from the Université de Paris  13, in 2013. He is now working in the Information Processing and Modeling Department at ONERA, the French Aerospace Lab. His research deals with high efficiency parallel methods for low-level video processing and 3D environment perception, with application to robotics and experimental physics.
 
