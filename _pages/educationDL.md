@@ -18,11 +18,11 @@ Slides for Deep Learning classes:
 
 Invited Talks:
 
-* *Sidonie Lefèvre* (ONERA/DOTA) **Machine learning methods for analysis of aircraft infra-red features**
+* *Sidonie Lefèvre* (ONERA/DOTA): **Machine learning methods for analysis of aircraft infra-red features**
 
-* *Thibaut Castaings* (ONERA/DTIS) **achine learning methods for space observation**
+* *Thibaut Castaings* (ONERA/DTIS): **achine learning methods for space observation**
 
-* [*Olivier Sigaud*](http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en) (UPMC/[ISIR](http://www.isir.upmc.fr/index.php?op=view_page&id=2&menuid=1&old=N&lang=en)) **From Machine Learning to Deep Learning with a focus on regression
+* [*Olivier Sigaud*](http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en) (UPMC/[ISIR](http://www.isir.upmc.fr/index.php?op=view_page&id=2&menuid=1&old=N&lang=en)): **From Machine Learning to Deep Learning with a focus on regression
 and reinforcement learning**
 
 #### 2017/06/13, Onera Toulouse center
@@ -41,8 +41,8 @@ Slides for Deep Learning classes:
 
 Invited Talks:
 
-* *Marina Gruet* (ONERA/DPhIEE) **Neural networks for space weather prediction**
+* *Marina Gruet* (ONERA/DPhIEE): **Neural networks for space weather prediction**
 
-* [*Jérôme Morio*](http://www.onera.fr/en/staff/jerome-morio) (ONERA/DTIS) **Aerial traffic data analysis for risk evaluation**
+* [*Jérôme Morio*](http://www.onera.fr/en/staff/jerome-morio) (ONERA/DTIS): **Aerial traffic data analysis for risk evaluation**
 
-* [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/) (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)) **From statistician to data scientist**
+* [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/): (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)) **From statistician to data scientist**
