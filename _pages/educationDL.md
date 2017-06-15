@@ -18,7 +18,10 @@ Slides for Deep Learning classes:
 
 Invited Talks:
 
-Sidonie Lefèvre
+* *Sidonie Lefèvre* (ONERA/DOTA) **Machine learning methods for analysis of aircraft infra-red features**
 
-Thibaut Castaings
+* *Thibaut Castaings* (ONERA/DTIS) **achine learning methods for space observation**
+
+* *Olivier Sigaud*:http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en (UPMC/ISIR) **From Machine Learning to Deep Learning with a focus on regression
+and reinforcement learning**
 
