@@ -2,6 +2,8 @@
 
 These full-day seminars are intended to give understanding of the key-concepts of machine learning and deep learning to an audience of engineers and research scientists. They are organized as a half-day tutorial to give theoretical basics and a half-day workshop with invited talks about more applied topics.
 
+---------------------------------------
+
 #### 2017/01/24, Onera Palaiseau center
 
  [<img src="education/DLDay_20170124_program.jpg" alt="Deep Learning Day 2017/01/24 program" width="150">](education/DLDay_20170124_program.pdf)
@@ -24,6 +26,8 @@ Invited Talks:
 
 * [*Olivier Sigaud*](http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en) (UPMC/[ISIR](http://www.isir.upmc.fr/index.php?op=view_page&id=2&menuid=1&old=N&lang=en)): **From Machine Learning to Deep Learning with a focus on regression
 and reinforcement learning**
+
+---------------------------------------
 
 #### 2017/06/13, Onera Toulouse center
 
