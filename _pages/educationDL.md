@@ -4,7 +4,7 @@ These full-day seminars are intended to give understanding of the key-concepts o
 
 #### 2017/01/24, Onera Palaiseau center
 
- [<img src="education/DLDay_20170124_program.jpg" alt="Deep Learning Day 2017/01/24 progra" width="150">](education/DLDay_20170124_program.pdf)
+ [<img src="education/DLDay_20170124_program.jpg" alt="Deep Learning Day 2017/01/24 program" width="150">](education/DLDay_20170124_program.pdf)
 
 Slides for Deep Learning classes:
 
@@ -27,3 +27,14 @@ and reinforcement learning**
 
 #### 2017/06/13, Onera Toulouse center
 
+ [<img src="education/DLDay_20170613_Toulouse_program.jpg" alt="Deep Learning Day 2017/06/13 program" width="150">](education/DLDay_20170613_Toulouse_program.pdf)
+
+Slides for Deep Learning classes:
+
+Invited Talks:
+
+* *Marina Gruet* (ONERA/DPhIEE) **Neural networks for space weather prediction**
+
+* *Jérôme Morio* (ONERA/DTIS) **Aerial traffic data analysis for risk evaluation**
+
+* [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/) (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)) **From statistician to data scientist**
