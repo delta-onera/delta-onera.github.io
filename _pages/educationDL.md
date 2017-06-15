@@ -22,6 +22,6 @@ Invited Talks:
 
 * *Thibaut Castaings* (ONERA/DTIS) **achine learning methods for space observation**
 
-* "*Olivier Sigaud*":http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en (UPMC/ISIR) **From Machine Learning to Deep Learning with a focus on regression
+* [*Olivier Sigaud*](http://www.isir.upmc.fr/index.php?op=view_profil&id=28&old=N&lang=en) (UPMC/ISIR) **From Machine Learning to Deep Learning with a focus on regression
 and reinforcement learning**
 
