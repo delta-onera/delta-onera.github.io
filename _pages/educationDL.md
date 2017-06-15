@@ -43,6 +43,6 @@ Invited Talks:
 
 * *Marina Gruet* (ONERA/DPhIEE) **Neural networks for space weather prediction**
 
-* *Jérôme Morio* (ONERA/DTIS) **Aerial traffic data analysis for risk evaluation**
+* [*Jérôme Morio*](http://www.onera.fr/en/staff/jerome-morio) (ONERA/DTIS) **Aerial traffic data analysis for risk evaluation**
 
 * [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/) (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)) **From statistician to data scientist**
