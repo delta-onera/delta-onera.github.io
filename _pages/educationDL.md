@@ -31,6 +31,14 @@ and reinforcement learning**
 
 Slides for Deep Learning classes:
 
+* **Introduction and Feature extraction** by *Bertrand Le Saux* ([Slides](education/DL2017_01_intro_data_extraction.pdf) in French)
+
+* **Classification and Support-Vector Machines** by *Alexandre Boulch* ([Slides](education/DL2017_02_AB_classification_supervisee.pdf) in French)
+
+* **Neural Networks** by *Bertrand Le Saux* ([Slides](education/DL2017_03_neural_nets.pdf) and [Slides](education/DL2017_04_BLS_images.pdf) in French)
+
+* **Deep Learning** by *Alexandre Boulch* ([Slides](education/DL2017_05_AB_deep.pdf) in French)
+
 Invited Talks:
 
 * *Marina Gruet* (ONERA/DPhIEE) **Neural networks for space weather prediction**
