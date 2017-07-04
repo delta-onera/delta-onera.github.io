@@ -45,8 +45,8 @@ Slides for Deep Learning classes:
 
 Invited Talks:
 
-* *Marina Gruet* (ONERA/DPhIEE): **Neural networks for space weather prediction**
+* *Marina Gruet* (ONERA/DPhIEE): **Neural networks for space weather prediction** ([Slides](education/gruet_reseaux-neurones-meteo-spatiale.pdf))
 
-* [*Jérôme Morio*](http://www.onera.fr/en/staff/jerome-morio) (ONERA/DTIS): **Aerial traffic data analysis for risk evaluation**
+* [*Jérôme Morio*](http://www.onera.fr/en/staff/jerome-morio) (ONERA/DTIS): **Aerial traffic data analysis for risk evaluation** ([Slides](education/morio_eval-risques-trafic-aerien.pdf))
 
-* [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/) (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)): **From statistician to data scientist**
+* [*Philippe Besse*](https://www.math.univ-toulouse.fr/~besse/) (INSA Toulouse/[IMT](https://www.math.univ-toulouse.fr/?lang=en)): **From statistician to data scientist** ([Slides](education/besse_GrossesDataOnera0617.pdf))
