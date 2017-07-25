@@ -1,7 +1,7 @@
 # Code and Software
 
 ## Samples
-Tutorial and/or code samples for deep learning applications can be found [here](https://github.com/delta-onera/sample).
+Tutorial and/or code samples for deep learning applications can be found [here](https://github.com/delta-onera/samples).
 
 ## Network architectures
 
