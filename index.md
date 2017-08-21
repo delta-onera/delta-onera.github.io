@@ -48,7 +48,9 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
         </a>
     </td>
     <td style="width: 200px;">
+        <a href="{{ site.url }}/_pages/publications.html">
         <img src="{{ site.url }}/images/publications.svg" height="200" width="200"/>
+        </a>
     </td>
     <td style="width: 200px;">
         <img src="{{ site.url }}/images/datasets.svg" height="200" width="200"/>
