@@ -7,8 +7,8 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
 
 <center>
 <table border="0">
-  <tr>
-    <td style="width: 200px;">
+<tr>
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/code.html">
         <img src="{{ site.url }}/images/code.svg" height="100" width="100"/>
         </a>
@@ -23,8 +23,21 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
         <img src="{{ site.url }}/images/ressources.svg" height="100" width="100"/>
         </a>
     </td>
-  </tr>
-  <tr>
+      <td style="width: 100px;">
+          <a href="{{ site.url }}/_pages/team.html">
+          <img src="{{ site.url }}/images/team.svg" height="100" width="100"/>
+          </a>
+      </td>
+      <td style="width: 100px;">
+          <a href="{{ site.url }}/_pages/publications.html">
+          <img src="{{ site.url }}/images/publications.svg" height="100" width="100"/>
+          </a>
+      </td>
+      <td style="width: 100px;">
+          <img src="{{ site.url }}/images/datasets.svg" height="100" width="100"/>
+      </td>
+</tr>
+<tr>
     <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/code.html">
             <center>Code and Software</center>
@@ -40,38 +53,21 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
         <center>Ressources and Tutorials</center>
         </a>
     </td>
-  </tr>
-  <tr>
     <td style="width: 100px;">
-        <a href="{{ site.url }}/_pages/team.html">
-        <img src="{{ site.url }}/images/team.svg" height="100" width="100"/>
-        </a>
+      <a href="{{ site.url }}/_pages/team.html">
+          <center>Team</center>
+      </a>
     </td>
     <td style="width: 100px;">
-        <a href="{{ site.url }}/_pages/publications.html">
-        <img src="{{ site.url }}/images/publications.svg" height="100" width="100"/>
-        </a>
-    </td>
-    <td style="width: 100px;">
-        <img src="{{ site.url }}/images/datasets.svg" height="100" width="100"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 100px;">
-        <a href="{{ site.url }}/_pages/team.html">
-            <center>Team</center>
-        </a>
+      <a href="{{ site.url }}/_pages/publications.html">
+        <center>Publications</center>
+      </a>
     </td>
       <td style="width: 100px;">
-        <a href="{{ site.url }}/_pages/publications.html">
-          <center>Publications</center>
-        </a>
+          <a href="{{ site.url }}/_pages/datasets.html">
+          <center>Datasets</center>
+          </a>
       </td>
-        <td style="width: 100px;">
-            <a href="{{ site.url }}/_pages/datasets.html">
-            <center>Datasets</center>
-            </a>
-        </td>
-  </tr>
+</tr>
 </table>
 </center>
