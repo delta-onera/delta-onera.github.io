@@ -10,64 +10,64 @@ DeLTA is a research project hosted at [ONERA, The French Aerospace Lab](http://w
   <tr>
     <td style="width: 200px;">
         <a href="{{ site.url }}/_pages/code.html">
-        <img src="{{ site.url }}/images/code.svg" height="200" width="200"/>
+        <img src="{{ site.url }}/images/code.svg" height="100" width="100"/>
         </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/educationDL.html">
-        <img src="{{ site.url }}/images/education.svg" height="200" width="200"/>
+        <img src="{{ site.url }}/images/education.svg" height="100" width="100"/>
         </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/ressources.html">
-        <img src="{{ site.url }}/images/ressources.svg" height="200" width="200"/>
+        <img src="{{ site.url }}/images/ressources.svg" height="100" width="100"/>
         </a>
     </td>
   </tr>
   <tr>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/code.html">
             <center>Code and Software</center>
         </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/educationDL.html">
         <center>Education</center>
         </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/ressources.html">
         <center>Ressources and Tutorials</center>
         </a>
     </td>
   </tr>
   <tr>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/team.html">
-        <img src="{{ site.url }}/images/team.svg" height="200" width="200"/>
+        <img src="{{ site.url }}/images/team.svg" height="100" width="100"/>
         </a>
     </td>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/publications.html">
-        <img src="{{ site.url }}/images/publications.svg" height="200" width="200"/>
+        <img src="{{ site.url }}/images/publications.svg" height="100" width="100"/>
         </a>
     </td>
-    <td style="width: 200px;">
-        <img src="{{ site.url }}/images/datasets.svg" height="200" width="200"/>
+    <td style="width: 100px;">
+        <img src="{{ site.url }}/images/datasets.svg" height="100" width="100"/>
     </td>
   </tr>
   <tr>
-    <td style="width: 200px;">
+    <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/team.html">
             <center>Team</center>
         </a>
     </td>
-      <td style="width: 200px;">
+      <td style="width: 100px;">
         <a href="{{ site.url }}/_pages/publications.html">
           <center>Publications</center>
         </a>
       </td>
-        <td style="width: 200px;">
+        <td style="width: 100px;">
             <a href="{{ site.url }}/_pages/datasets.html">
             <center>Datasets</center>
             </a>
