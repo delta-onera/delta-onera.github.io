@@ -76,4 +76,6 @@ Dr. [Frédéric Champagnat](https://www.researchgate.net/profile/Frederic_Champa
 ---
 ### [DOTA - Theoretical and Applied Optics](http://www.onera.fr/en/dota)<a name="dota"></a>
 
-* Véronique Achard
+![alt text](team/V_Achard.jpg "Véronique Achard")
+
+Dr. Véronique Achard received in 1991 the Ph.D. degree from the University of Paris VII in the field of “Physical method for remote sensing”. She is currently a research scientist at ONERA, the French Aerospace Lab., in the Applied and Theoretical Optics Department. First, she was involved in atmospheric trace gases measurements from space using limb viewing infrared spectrometry. Her research activities currently concern atmospheric correction and processing of hyperspectral images.
