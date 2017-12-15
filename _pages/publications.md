@@ -1,28 +1,72 @@
-# Publications
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-This page presents the publications and communications produced at ONERA for the DeLTA project.
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-### Neural Networks
+{% include base_path %}
 
-* [**ShaResNet: reducing residual network parameter number by sharing weights**]()
-<br/>
-Alexandre Boulch
-<br/>
-*Arxiv*, 2017
+<!-- ORIGINAL -->
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %} -->
 
-### 3D Semantics, vision and robotics
+<!-- with YEAR -->
+<!-- {% for post in site.publications reversed %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-* [**Unstructured point cloud semantic labeling using deep segmentation networks**](https://sites.google.com/view/boulch/publications/2017_3dor_pointclouds)
-<br/>
-Alexandre Boulch, Bertrand Le Saux and Nicolas Audebert
-<br/>
-*Eurographics Workshop on 3D Object Retrieval, 3DOR*, 2017
+    {% if forloop.first %}
+    {% include this_year.html %}
+
+    {% endif %}
+
+    {% include archive-single-pub.html %}
+
+    {% if forloop.last %}
+
+    {% else %}
+        {% if this_year != next_year %}
+        {% include next_year.html %}
+
+        {% endif %}
+    {% endif %}
+{% endfor %} -->
+
+<!-- Per TYPE -->
+
+{% include pub_head.html %}
 
 
-### Ionosphere activity prediction
+{% include pub_journal.html %}
+{% for post in site.publications reversed %}
+    {% if post.type == "journal" %}
+        {% include archive-single-pub.html %}
+    {% endif %}
+{% endfor %}
 
-* [**Deep sequence-to-sequence neural networks for ionospheric activity map prediction**](https://sites.google.com/view/boulch/publications/2017_iconip_forecasting)
-<br/>
-Noëlie Cherrier, Thibaut Castaings, and Alexandre Boulch
-<br/>
-*International Conference On Neural Information Processing, ICONIP*, 2017
+{% include pub_conference.html %}
+{% for post in site.publications reversed %}
+    {% if post.type == "conference" %}
+        {% include archive-single-pub.html %}
+    {% endif %}
+{% endfor %}
+
+{% include pub_misc.html %}
+{% for post in site.publications reversed %}
+    {% if post.type == "misc" %}
+        {% include archive-single-pub.html %}
+    {% endif %}
+{% endfor %}
+
+{% include pub_communication.html %}
+{% for post in site.publications reversed %}
+    {% if post.type == "communication" %}
+        {% include archive-single-pub.html %}
+    {% endif %}
+{% endfor %}
