@@ -1,12 +1,13 @@
 ---
 title: "SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks"
 collection: publications
-permalink: /publication/2017-3DOR-snapnet
+permalink: /publication/2017-CAG-snapnet
 excerpt: ''
 date: 2017-12-01
 venue: 'Computer and Graphics'
 paperurl: ''
 type: 'journal'
+code: true
 ---
 
 Authors: *Alexandre Boulch*, *Bertrand Le Saux* and *Nicolas Audebert*
