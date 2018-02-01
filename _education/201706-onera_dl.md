@@ -20,7 +20,7 @@ Slides for Deep Learning classes:
 
 * **Neural Networks** by *Bertrand Le Saux* ([Slides](/files/education/DL2017_03_neural_nets.pdf) and [Slides](/files/education/DL2017_04_BLS_images.pdf) in French)
 
-* **Deep Learning** by *Alexandre Boulch* ([Slides](/files//files/education/DL2017_05_AB_deep.pdf) in French)
+* **Deep Learning** by *Alexandre Boulch* ([Slides](/files/education/DL2017_05_AB_deep.pdf) in French)
 
 Invited Talks:
 
